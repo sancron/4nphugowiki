@@ -47,7 +47,3 @@ Möchtest du mehr als einen Mod hinzufügen, dann füge einfach einen weiteren A
 ```
 
 Wichtig ist dass hier der Syntax eingehalten wird, damit der Server erfolgreich starten kann. Um sicherzustellen dass du keinen Fehler gemacht hast, kannst du dazu auch einen Online JSON Validator verwenden wie diesen hier: [JSONLint](https://jsonlint.com/) und die Konfiguration einfach über Kopieren und Einfügen dort testen.
-
-# Links
-- [Arma Reforger Worksop](https://reforger.armaplatform.com/workshop/)
-- [JSON Validator](https://jsonlint.com/)
