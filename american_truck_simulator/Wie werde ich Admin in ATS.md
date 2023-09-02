@@ -1,4 +1,4 @@
-# Wie werde ich Admin bei ETS2
+# Wie werde ich Admin bei ATS
 Um Admin zu werden musst Du in den Advanced Modus, denn nur so kannst Du die server_config.sii bearbeiten, was notwendig ist um Admins hinzuzufügen.
 
 **Wichtig**: Der Server muss sich im Advanced-Modus befinden. Nach dem Wechsel in den Advanced-Modus musst du in diesem bleiben.
