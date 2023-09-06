@@ -10,10 +10,7 @@ Meistens möchtest Du eine eigene Map hochladen wenn du eine entsprechende Mod i
 3. Danach benötigen wir den Map Ordner, dieser wird von den Moddern unterschiedlich bereitgestellt. Bei DeerIsle geschieht dies über [GitHub](https://github.com/johnmclane666/DayZ-Deerisle-Stable) Der Ordner den Du hier benötigst heist:
 `empty.deerisle`
 
-4. Nun verbindest Du dich, mit dem Upload-FTP unter verwendung eines FTP-Programmes und lädst den Ordner unter folgenden Pfad hoch:
-
-`/KonfigID/mpmissions/`
-
+4. Nun verbindest Du dich, mit dem Upload-FTP unter verwendung eines FTP-Programmes und lädst den Ordner unter folgenden Pfad hoch: `/KonfigID/mpmissions/`\
 **Hinweis**: Die KonfigID oder KonfigurationsID für deinen Server findest du auf unserer Seite unter Gameserver.
 Wäre deine KonfigID z.B. 123456 sähe das Ganze also so aus: `/123456/mpmissions/`
 
