@@ -6,13 +6,13 @@ Den Auth Token kannst du hier erstellen: [Auth Token generieren](https://alderon
 **Wichtig** Der Auth Token wird dir nur einmal beim erstellen angezeigt. Danach kannst du den selben Token nicht noch einmal abrufen, sondern musst dir einen neuen Token erstellen. Sobald du einen neuen Token erstellst muss dieser auch beim Server aktuallisiert werden.
 
 ## Beim erstellen des Servers
-Während du den Server erstellst, wirst du nach dem Auth Token gefragt. Füge den Auth Token dann einfach an der entsprechenden Stelle ein.
+Während du den Server erstellst, wirst du nach dem Host Token gefragt. Füge deinen Token dann einfach an der entsprechenden Stelle ein.
 
 ## Basic Config
 Im Basic Config Editor gehst Du wie folgt vor.
 * Stoppe den Server und warte bis er vollständig gestoppt ist.
 * Gehe auf Server Einstellungen
-* Suche den Eintrag Auth-Token und füge deinen Token dort ein.
+* Suche den Eintrag Host Token und füge deinen Token dort ein.
 * Speichere deine Änderung
 * Starte den Server
 
@@ -20,7 +20,7 @@ Im Basic Config Editor gehst Du wie folgt vor.
 Wenn du im Advanced Modus bist gehe bitte wie folgt vor. Beachte dass du im Advanced Modus bleiben musst, wenn du deine Einstellungen nicht verlieren möchtest.
 * Stoppe den Server und warte bis er vollständig gestoppt ist.
 * Gehe auf Commandline
-* Füge dort an der entsprechenden Stelle deinen Token ein.
+* Füge dort an der entsprechenden Stelle bei Host Token deinen Token ein.
 * Speichere deine Änderung
 * Starte den Server
 
