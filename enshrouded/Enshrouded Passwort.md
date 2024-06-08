@@ -2,7 +2,7 @@
 Seit dem Update 2 wurde die Art und Weise wie man ein Passwort bei Enshourded setzt geändert. Im nachfolgenden Beitrag möchte ich auf die Besonderheiten eingehen.
 
 # Benutzergruppen
-Mit dem Update 2 wurde bei Enshrouded, Benutzergruppen eingefügt. Diese bestimmten die Zugriffsrechte und haben jeweils ein eigenes Passwort.
+Mit dem Update 2 wurde bei Enshrouded, Benutzergruppen eingefügt. Die Gruppen bestimmen die Zugriffsrechte und haben jeweils ein eigenes Passwort. Jenachdem welches Passwort beim Verbinden verwendet wird, wird der Spieler der bestimmten Gruppe zugeordnet.
 
 Standardmässig gibt es 3 Benutzergruppen die vordefiniert sind mit folgenden Rechten:
 * Admin
